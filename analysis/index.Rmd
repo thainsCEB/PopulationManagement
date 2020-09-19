@@ -8,4 +8,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to my research website on population management of endangered parrot species using genomic data.
+
+Blue-headed macaws (Primolius coulini)
+- Data Preprocessing
+
+
